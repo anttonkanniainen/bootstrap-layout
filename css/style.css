@@ -1,0 +1,13 @@
+header {
+    background-color: rgb(219, 197, 197);
+    height: 100px;
+}
+
+nav {
+    background-color: rgb(228, 228, 223);
+}
+
+footer {
+    background-color: #333;
+    color: #f5f5f5;
+}
